@@ -1,7 +1,9 @@
 ---
-layout: post
 title: My First Post!
+date: 2016-06-01 00:00:00 Z
+layout: post
 ---
+
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build
 the site to see your changes. You can rebuild the site in many different ways, but
 the most common way is to run `jekyll serve`, which launches a web server and
